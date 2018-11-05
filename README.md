@@ -8,5 +8,6 @@ sudo apt-get install xsel
 sudo apt-get install libttspico0 libttspico-utils libttspico-data
 
 then create a keyboard hotkey for talktome.sh to say anything you highlight with text.
+just run keyboard and create a custom keyboard hotkey like super-r or something else.
 
 also, best dictation online is https://speechnotes.co/ using chrome browser.
