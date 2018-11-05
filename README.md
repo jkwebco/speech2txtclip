@@ -6,4 +6,4 @@ install xsel and pico2wave
 
 then create a keyboard hotkey for talktome.sh to say anything you highlight with text.
 
-also, best dictation online is https://speechnotes.co/ useing chrome browser.
+also, best dictation online is https://speechnotes.co/ using chrome browser.
