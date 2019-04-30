@@ -12,3 +12,5 @@ just run keyboard and create a custom keyboard hotkey like super-r or something 
 
 also, best dictation online is https://speechnotes.co/ using chrome browser. There is also
 a android app created for this https://play.google.com/store/apps/details?id=co.speechnotes.speechnotes
+
+now with google tts, ~you made need to load mplayer
