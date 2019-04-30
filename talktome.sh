@@ -10,5 +10,7 @@
 #xclip -sel -c -o -t text/html > /home/userany/Desktop/test.txt
 xsel > /home/userany/Desktop/test.txt
 
-/home/userany/Desktop/picoTTSFromFile.sh /home/userany/Desktop/test.txt
+#/home/userany/Desktop/picoTTSFromFile.sh /home/userany/Desktop/test.txt
 
+
+/home/userany/Desktop/speech.sh
